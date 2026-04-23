@@ -1,15 +1,29 @@
 # 🧬 Pragyanshu Mohapatra
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Researcher;Deep+Learning+Engineer;Exploring+Biotech+Synapse&font=Fira%20Code&width=400&height=50&color=4ade80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Researcher;Software+Architect;Biotech+Enthusiast;Life-long+Learner&font=Fira%20Code&width=400&height=50&color=4ade80" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌐 Overview
-| 🔭 **Currently Working On** | ⚡ **Tech Stack** | 🚀 **2026 Focus** |
-| :--- | :--- | :--- |
-| Scaling AI for Medical Diagnostics | Python • PyTorch • TensorFlow | Advancing Bio-Neural Interfaces |
-| Deep Learning / CNN Research | OpenCV • Scikit-Learn • K-Means | Contributing to Medical Open Source |
+### 📂 Project Portfolio (Bento Box)
+
+| 🤖 **AI & Technical Training** | 🛠️ **System & Desktop (C/C++)** |
+| :--- | :--- |
+| • [Machine Learning](https://github.com/Pragyanshu-Mohapatra/Machine-Learning) | • [Bakery Billing (C)](https://github.com/Pragyanshu-Mohapatra/Bakery_Billing) |
+| • [IOT-with-Rasberry-Pi](https://github.com/Pragyanshu-Mohapatra/IOT-with-Rasberry-Pi) | • [OS Project (C)](https://github.com/Pragyanshu-Mohapatra/Os-project) |
+| • [Swayam Courses 2025 (NLP)](https://github.com/Pragyanshu-Mohapatra/Swayam_Courses_2025) | • [Income Tax Calculator (C++)](https://github.com/Pragyanshu-Mohapatra/Income-Tax-calculator) |
+| • [Real-Time Code Scanner](https://github.com/Pragyanshu-Mohapatra/Real_Time_Code_Scanner) | • [Home Management System (C++)](https://github.com/Pragyanshu-Mohapatra/Home-Maganement-system) |
+
+| 🐍 **Python & Java** | 🌐 **Web & Cross-Platform** |
+| :--- | :--- |
+| • [Fitness Calculator (Py)](https://github.com/Pragyanshu-Mohapatra/Fitness-Calculator) | • [Redgroom (HTML/CSS)](https://github.com/Pragyanshu-Mohapatra/Redgroom) |
+| • [Intelligent Timetable (Py)](https://github.com/Pragyanshu-Mohapatra/Intelligent-Time-table-Maker) | • [Learning Mgmt System](https://github.com/Pragyanshu-Mohapatra/Learning_Management_System) |
+| • [Java Practice](https://github.com/Pragyanshu-Mohapatra/Java_Programme_Practice) | • [Real-Time Code Scanner](https://github.com/Pragyanshu-Mohapatra/Real_Time_Code_Scanner) |
+
+| 🎓 **Academic & Knowledge Base** | 🏛️ **UPSC & Civil Services** |
+| :--- | :--- |
+| • [Notes Consolidation](https://github.com/Pragyanshu-Mohapatra/Notes_Consolidation) | • [NCERT Notes](https://github.com/Pragyanshu-Mohapatra/NCERT_Notes) |
+| • [LPU B.Tech CSE (2017-21)](https://github.com/Pragyanshu-Mohapatra/LPU-B.TECH-CSE_2017-2021) | • [MPS IGNOU Notes](https://github.com/Pragyanshu-Mohapatra/MPS_IGNOU) |
 
 ---
 
@@ -20,14 +34,9 @@
 </p>
 
 ### 🐍 The Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pragyanshu-Mohapatra/Pragyanshu-Mohapatra/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pragyanshu-Mohapatra/Pragyanshu-Mohapatra/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pragyanshu-Mohapatra/Pragyanshu-Mohapatra/output/github-contribution-grid-snake.svg">
-</picture>
+![github contribution grid snake animation](https://raw.githubusercontent.com/Pragyanshu-Mohapatra/Pragyanshu-Mohapatra/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pragyanshu-mohapatra-133b98157)
-[<img src="https://img.shields.io/badge/Portfolio-4ade80?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://yourportfolio.com)
+### 📫 Let's Connect
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/pragyanshu-mohapatra)
