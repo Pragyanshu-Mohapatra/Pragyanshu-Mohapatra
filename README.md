@@ -1,6 +1,6 @@
 # 🧬 Pragyanshu Mohapatra
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Researcher;Software+Architect;Biotech+Enthusiast;Life-long+Learner&font=Fira%20Code&width=400&height=50&color=4ade80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Researcher;Software+Architect;Senior+Manager;Life-long+Learner&font=Fira%20Code&width=400&height=50&color=4ade80" alt="Typing SVG" />
 </p>
 
 ---
